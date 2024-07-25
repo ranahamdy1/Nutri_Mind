@@ -1,7 +1,7 @@
 # nutri_mind_application
 # OUR UI
 - [UI: Nutri_Mind](https://www.figma.com/design/a5jOJOD7FJngHYP5gl7y9X/Nutri-Mind-project?node-id=0-1&t=H00pNbgurDMI2IYY-0)
-- 
+  
 # Flutter App Package
 
 This README file provides an overview of the libraries used in your Flutter app along with their names, purposes, and links to install them. These libraries enhance the functionality and appearance of our application. To use these libraries, make sure you have Flutter and Dart set up in your project.
